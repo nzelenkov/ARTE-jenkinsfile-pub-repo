@@ -1,4 +1,4 @@
-node {
+node('java') {
  	// Clean workspace before doing anything
     deleteDir()
 
